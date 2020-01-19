@@ -1,0 +1,3 @@
+Name: A Course: cs Average: 7.8
+Name: B Course: cs Average: 8.9
+Name: C Course: cs Average: 6.8
