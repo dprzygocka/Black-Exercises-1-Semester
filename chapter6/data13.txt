@@ -1,0 +1,23 @@
+import java.util.*;
+/* First Program - 
+Introduction to Java Programming */ 
+public class Introduction { 
+   public static void main(String[] args) { // main 
+   System.out.println("Introduction to Java Programming!"); 
+   } 
+   public static void try() { // method 
+      System.out.println("Practice!"); 
+   } 
+} /* End */ 
+If the file contained this text, your program should output the following text:
+
+import java.util.*;
+
+public class Introduction {
+   public static void main(String[] args) { 
+      System.out.println("Introduction to Java Programming!"); 
+   }
+   public static void try() { 
+      System.out.println("Practice!"); 
+   } 
+} 
